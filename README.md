@@ -37,6 +37,7 @@
 <h2>✉️ Контакты:</h2>
 <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" align="left" width="26" alt="Иконка Telegram"></a>
 <br>
+[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" align="left" width="26" alt="Gmail">](mailto:fvx995@gmail.com)
 
 <p>
   
