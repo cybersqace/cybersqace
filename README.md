@@ -36,8 +36,7 @@
 
 <h2>✉️ Контакты:</h2>
 <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" align="left" width="26" alt="Иконка Telegram"></a>
-<br>
-<a href="gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" align="left" width="26" alt="Gmail"></a>
+<a href="https://mail.google.com/"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" align="left" width="26" alt="Gmail"></a>
 
 <p>
   
